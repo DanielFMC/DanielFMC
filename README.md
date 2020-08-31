@@ -39,7 +39,7 @@
 
 ### GitHub Stats
 
-[![DanielFMC's github stats](https://github-readme-stats.vercel.app/api?username=DanielFMC&theme=synthwave&show_icons=true&include_all_commits=true&hide=issues)](https://github.com/DanielFMC/github-readme-stats)
+[![DanielFMC's github stats](https://github-readme-stats.vercel.app/api?username=DanielFMC&theme=synthwave&show_icons=true&include_all_commits=true&hide=issues)](https://github.com/DanielFMC/)
 
 [twitter]: https://twitter.com/DanielCDLM14
 [instagram]: https://www.instagram.com/danielm_6fu/
