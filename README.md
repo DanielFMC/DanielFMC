@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DanielFMC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="DanielFMC | Twitter" width="22px" src="https://i.imgur.com/lh4ceqy.png" />][facebook]
 
-[<img align="left" alt="DanielFMC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DanielFMC | Twitter" width="22px" src="https://i.imgur.com/xxtbO02.png" />][twitter]
 
-[<img align="left" alt="DanielFMC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DanielFMC | Instagram" width="22px" src="https://i.imgur.com/8W0OOoM.png" />][instagram]
 
 <br>
 <br>
