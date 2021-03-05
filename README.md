@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying in the Universidad Distrital, Bogotá, Colombia!
 - 🌱 I’m currently learning about web development :computer:
-- :dart: 2020 Goals: Learn too much about web development
+- :dart: 2021 Goals: Be an engineer and expand my knowledge
 - ⚡ Fun fact: I love the music, and I'd really like learn to play drums
 
 ### Connect with me:
@@ -38,7 +38,7 @@
 
 ### GitHub Stats
 
-[![DanielFMC's github stats](https://github-readme-stats.vercel.app/api?username=DanielFMC&theme=synthwave&show_icons=true&include_all_commits=true&hide=issues)](https://github.com/DanielFMC/)
+[![DanielFMC's github stats](https://github-readme-stats.vercel.app/api?username=DanielFMC&theme=prussian&show_icons=true&include_all_commits=true&hide=issues)](https://github.com/DanielFMC/)
 
 [twitter]: https://twitter.com/DanielCDLM14
 [instagram]: https://www.instagram.com/danielm_6fu/
